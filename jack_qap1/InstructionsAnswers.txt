@@ -1,0 +1,21 @@
+1. It took me over a week to get a design going for the website, I stressed over it a lot as I 
+usually do with more creative tasks. Once I managed to get an idea of what the website would
+look like, it took me about an hour to research the brand, and another 8 or 9 to write the
+HTML and CSS, which was mostly writing and re-writing things to get them to work.
+
+2. I had to look back at some recordings of classes to find answers to some problems I was
+having, as well as the GitHub repository. As for my sources, I used the official website for
+the car I chose along with Shutterstock for pictures, YouTube for a video and Spotify for
+figures on the band in related media.
+
+3. I didn't end up asking for help, although if I had started coding sooner I would have tried
+to keep some of the more advanced features I was hoping to add. I likely would have asked for
+assistance on them if I had begun coding them a few days before.
+
+4. Same as number 3
+
+5. This isn't that hard objectively, but HTML is my weakest subject so far in the course, I much
+prefer Python and JS as I don't have a creative mind and making things look pretty stresses me
+out. For me, this was an 8 out of 10 difficulty project. If I had started the coding earlier 
+I would have had less stress on my end for sure, but I doubt I could have done much better in 
+a similar situation aside from getting more time to troubleshoot.
